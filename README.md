@@ -3,6 +3,8 @@ An ongoing project to create a multi-stage horror game featuring mazes and survi
 
 # Haunted Forest 
 Warning - This game has semi-loud jumpscares.
+
+**Instructions**
 1. WASD keys to move, SHIFT to run, LEFT CLICK to toggle flashlight.
 2. Collect the multi-colored lavalamps - 4 in total (Red, green, blue, purple)
 3. A humming sound will constantly seek you out. When closer, it will be louder. Stay away from it or the monster will encounter you.
@@ -15,6 +17,8 @@ Warning - This game has semi-loud jumpscares.
 
 # Haunted House
 Warning - This game has semi-loud jumpscares.
+
+**Instructions**
 1. WASD keys to move, SHIFT to run, LEFT CLICK to toggle flashlight.
 2. Collect the multi-colored lavalamps - 4 in total (Red, green, blue, purple)
 3. Avoid the floating eyeball monster, which will follow you slowly through walls.
